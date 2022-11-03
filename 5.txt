@@ -1,0 +1,2 @@
+1. The value of variable a will not change after the call to function increment_int_a because it is pass by value
+2 The value of element of list b will change after calling the function increment_int_b because it is pass by reference
